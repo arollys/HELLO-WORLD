@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-us">
+   <head>
+    <title>Div Html and Css</title>
+	<meta charset="utf-8"/>
+	<meta name="keywords" content=""/>
+	<meta name="desciption" content=""/>
+	<link type="text/css" rel="stylesheet" href="main.css" />
+	</head>
+	
+	<body>
+	
+	<!--Wrapper div-->
+	<div id="Wrapper">
+	
+	<!--Header div-->
+	<div id="header">Here is a test of my Html Div and Css knowledge</div>
+	
+	
+	<!--Menu div-->
+	<div id="menu"></div>
+	
+	
+	
+	<!--Content div-->
+	<div id="content">This this the main content holder</div>
+	
+	<!--footer-->
+	<footer>
+	<div id="footer">Copyright &copy; 2018 Oyetimein Adewale</div>
+	
+	</footer>
+	</div>
+	
+	
+	</body>
+	</html>
+	
